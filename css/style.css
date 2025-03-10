@@ -12,8 +12,7 @@ main {
 
 .img-circular {
   width: 100%;
-  height: auto;
-  aspect-ratio: 1/1; /* Fuerza la imagen a ser cuadrada */
+  aspect-ratio: 1/1;  /* Fuerza la imagen a ser cuadrada */
   object-fit: cover;
   transition: 300ms;
 }
